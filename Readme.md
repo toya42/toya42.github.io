@@ -1,1 +1,1 @@
-[for CFD beginners](https://toya42.github.io)
+[for CFD beginners (written in Japanese)](https://toya42.github.io)

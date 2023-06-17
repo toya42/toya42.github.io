@@ -1,1 +1,1 @@
-# Introduction to Spectral Method for Turbulence Computation
+# ゼロからのスペクトル法
