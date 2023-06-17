@@ -1,4 +1,9 @@
-# Hello World of Computational Fluid Dynamics
+---
+layout: default
+title: 圧縮性流体解析覚書
+---
+
+# 圧縮性流体解析覚書
 
 圧縮性流体解析に用いられるスキームを中心にまとめます．
 
