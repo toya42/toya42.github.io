@@ -1,5 +1,6 @@
 ---
 mathjax: true
+markdown: kramdown
 ---
 
 # 本webサイトについて
